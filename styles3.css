@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+}
+
+html{
+	background-color: #addfad;
+}
+
+h1{
+	margin: 25px;
+	font-size: 44px;
+	font-family: 'Snell Roundhand','Zapfino','Brush Script MT',sans-serif;
+
+}
+
+h3{
+	color: #006400;
+	font-size: 22px;
+	font-family: 'Snell Roundhand','Zapfino','Brush Script MT',sans-serif;
+}
+h5{
+	font-size: 18px;
+	font-family: 'Snell Roundhand','Zapfino','Brush Script MT',sans-serif;
+	margin: 10px;
+}
+ul{
+	margin: 5px;
+	font-family: 'Snell Roundhand','Zapfino','Brush Script MT',sans-serif;
+	
+}
