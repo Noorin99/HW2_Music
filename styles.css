@@ -1,0 +1,58 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	
+
+}
+html { 
+  background: url(https://www.wallpapertip.com/wmimgs/157-1572203_black-headphones-gadget-electronic-audio-equipment-black-headphones.jpg) no-repeat center center fixed; 
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size:cover;
+  background-size:cover;
+  background-color: #161a1b;
+}
+
+.header{
+	margin: 60px;
+	color: #ffdf00;
+	font-family: 'Snell Roundhand','Zapfino','Brush Script MT',sans-serif;
+	font-size: 40px;
+	font-weight: bold;
+	font-variant-position:center;
+	text-align: center;
+
+}
+
+.input{
+	text-align: center;
+}
+#fname{
+	height: 40px;
+	width: 300px;
+	background-color: #ffff66;
+	border: 10px;
+	border-style: solid;
+}
+.button {
+  background-color: #808080;
+  border: 10px;
+  border-color: black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-style: bold;
+}
+.middle{
+	text-align: center;
+
+}
+
+
+
